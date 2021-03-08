@@ -1,52 +1,11 @@
-# Prerequisites
-*.d
+## 파일 무시 test.txt
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+## 다음과 같은 확장자는 전체 무시 *.text *.exe *.zip
 
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+## 폴더 무시 test/
+2019_SDS_알고리즘_특강/
+2019_네이버현직자_SW역량테스트_대비반/
+2019_하반기_네이버_토요일_문제/
+2019_하반기_라인/
+삼성_상시테스트_B형/
+삼성전자_B형/
